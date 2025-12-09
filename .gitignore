@@ -1,2 +1,7 @@
 env/
-_pycache_/
+__pycahe__/
+index.html
+dir
+python
+-vpython3.11.0
+-vpython3.13.0
